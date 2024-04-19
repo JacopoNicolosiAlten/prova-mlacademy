@@ -1,2 +1,2 @@
 # Prova ML Academy
-Questo progetto è una prova
+Questa è una prova per l'Academy
